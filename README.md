@@ -1,7 +1,6 @@
-<h1 align="center">Hola 👋, me llamo Sebastián</h1>
-<h3 align="center">Soy Fullstack Developer Java</h3>
+<h1 align="center">Hola 👋</h1>
+<h3 align="center">Soy Fullstack Java Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
